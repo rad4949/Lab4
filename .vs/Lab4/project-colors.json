@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c843ef3e-f8ef-46e9-8fe6-9616c9122a61": {
+      "ProjectGuid": "c843ef3e-f8ef-46e9-8fe6-9616c9122a61",
+      "DisplayName": "Lab4",
+      "ColorIndex": 0
+    },
+    "e2632bd8-7009-45e5-be87-7846ad39605e": {
+      "ProjectGuid": "e2632bd8-7009-45e5-be87-7846ad39605e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "cc84868a-dde2-4a35-95c1-09ce63145b5c": {
+      "ProjectGuid": "cc84868a-dde2-4a35-95c1-09ce63145b5c",
+      "DisplayName": "Lab4_MSSQL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\bin\Debug\Lab4_MSSQL.exe.config
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\bin\Debug\Lab4_MSSQL.exe
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\bin\Debug\Lab4_MSSQL.pdb
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.csproj.AssemblyReference.cache
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.csproj.SuggestedBindingRedirects.cache
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.Form1.resources
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.Properties.Resources.resources
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.csproj.GenerateResource.cache
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.csproj.CoreCompileInputs.cache
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.exe
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.pdb
+D:\КПІ\2 курс\2 семестр\База даних\Лабораторна №4\Lab4\Lab4_MSSQL\obj\Debug\Lab4_MSSQL.Form2.resources
